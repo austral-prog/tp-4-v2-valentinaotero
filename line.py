@@ -1,10 +1,10 @@
 import math 
 def line():
-    A = float(input("Ingrese el coeficiente A:"))
-    B = float(input("Ingrese el coeficiente B:"))
+    A = (float(input("Ingrese el coeficiente A:")))
+    B = (float(input("Ingrese el coeficiente B:")))
 
-    X1 = float(input("Ingrese el coeficiente X1:"))
-    X2 = float(input("Ingrese el coeficiente X2:"))
+    X1 = (float(input("Ingrese el coeficiente X1:")))
+    X2 = (float(input("Ingrese el coeficiente X2:")))
 
     Y1 = A * X1 + B
     Y2 = A * X2 + B
